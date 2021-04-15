@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "wtoKiw2rrV2hjMiiu+wgt0tNQ3VMYQdPOoL+ywrQaM6rCToPBj5xjUK07ULLPjvfMRkqvLEImG26ggBiich+/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\spcav\\OneDrive\\Desktop\\Branch practice\\GitPractice\\gitPractice\\gitPractice.csproj",
+=======
+  "dgSpecHash": "djep3OJjHSAc9OAWWZKLY59Crm0D9DoHrPDHZwh3HIrq5MYhW+Y/BpIGRSVC4kYVLHCbNdohJg9TYvjybla2tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jms_s\\Desktop\\Collaborations\\GitPractice\\gitPractice\\gitPractice.csproj",
+>>>>>>> baea8daeee848a7d824097eb70d5e1f3b75b7506
   "expectedPackageFiles": [],
   "logs": []
 }

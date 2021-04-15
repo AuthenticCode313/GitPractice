@@ -8,11 +8,16 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\spcav\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\jms_s\\.nuget\\packages\\": {}
+>>>>>>> baea8daeee848a7d824097eb70d5e1f3b75b7506
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\spcav\\OneDrive\\Desktop\\Branch practice\\GitPractice\\gitPractice\\gitPractice.csproj",
       "projectName": "gitPractice",
       "projectPath": "C:\\Users\\spcav\\OneDrive\\Desktop\\Branch practice\\GitPractice\\gitPractice\\gitPractice.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spcav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\jms_s\\Desktop\\Collaborations\\GitPractice\\gitPractice\\gitPractice.csproj",
+      "projectName": "gitPractice",
+      "projectPath": "C:\\Users\\jms_s\\Desktop\\Collaborations\\GitPractice\\gitPractice\\gitPractice.csproj",
+      "packagesPath": "C:\\Users\\jms_s\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jms_s\\Desktop\\Collaborations\\GitPractice\\gitPractice\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jms_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> baea8daeee848a7d824097eb70d5e1f3b75b7506
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +75,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+>>>>>>> baea8daeee848a7d824097eb70d5e1f3b75b7506
       }
     }
   }
